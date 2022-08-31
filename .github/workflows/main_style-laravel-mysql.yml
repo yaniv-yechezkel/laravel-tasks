@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'style-laravel-mysql'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7BFDC9CF5E3E4EE8A36E5F555E2F0E54 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_56982B3FFC854A2A8A93CD526F04E91C }}
           package: .
